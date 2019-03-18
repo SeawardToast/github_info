@@ -1,0 +1,11 @@
+/home/aidan/Development/REST_app/bin/Debug/netcoreapp2.2/REST_app.deps.json
+/home/aidan/Development/REST_app/bin/Debug/netcoreapp2.2/REST_app.runtimeconfig.json
+/home/aidan/Development/REST_app/bin/Debug/netcoreapp2.2/REST_app.runtimeconfig.dev.json
+/home/aidan/Development/REST_app/bin/Debug/netcoreapp2.2/REST_app.dll
+/home/aidan/Development/REST_app/bin/Debug/netcoreapp2.2/REST_app.pdb
+/home/aidan/Development/REST_app/obj/Debug/netcoreapp2.2/REST_app.csprojAssemblyReference.cache
+/home/aidan/Development/REST_app/obj/Debug/netcoreapp2.2/REST_app.csproj.CoreCompileInputs.cache
+/home/aidan/Development/REST_app/obj/Debug/netcoreapp2.2/REST_app.AssemblyInfoInputs.cache
+/home/aidan/Development/REST_app/obj/Debug/netcoreapp2.2/REST_app.AssemblyInfo.cs
+/home/aidan/Development/REST_app/obj/Debug/netcoreapp2.2/REST_app.dll
+/home/aidan/Development/REST_app/obj/Debug/netcoreapp2.2/REST_app.pdb
