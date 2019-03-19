@@ -26,23 +26,22 @@ namespace WebAPIClient
 
         static void Main(string[] args)
         {
-            Console.WriteLine("This shit is starting up now");
 	    var repositories = ProcessRepositories().Result;
 
 	    foreach (var repo in repositories) {
 	        Console.Write("Name: ");
-		Console.WriteLine(repo.Name);
-		Console.Write("Description: ");
-		Console.WriteLine(repo.Description);
-		Console.Write("Git Home URL: ");
-		Console.WriteLine(repo.GitHubHomeUrl);
-		Console.Write("Homepage: ");
-		Console.WriteLine(repo.Homepage);
-		Console.Write("# watchers: ");
-		Console.WriteLine(repo.Watchers);
-		Console.Write("Last Push: ");
-		Console.WriteLine(repo.LastPush);
-		Console.WriteLine();
+		    Console.WriteLine(repo.Name);
+		    Console.Write("Description: ");
+		    Console.WriteLine(repo.Description);
+		    Console.Write("Git Home URL: ");
+		    Console.WriteLine(repo.GitHubHomeUrl);
+		    Console.Write("Homepage: ");
+		    Console.WriteLine(repo.Homepage);
+		    Console.Write("# watchers: ");
+		    Console.WriteLine(repo.Watchers);
+		    Console.Write("Last Push: ");
+		    Console.WriteLine(repo.LastPush);
+		    Console.WriteLine();
 	    }
         }
     }
